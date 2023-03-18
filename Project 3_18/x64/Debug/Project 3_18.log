@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Visual Studio 22\Code\Test-code\Project 3_18\test.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Visual Studio 22\Code\Test-code\Project 3_18\test.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+  Project 3_18.vcxproj -> D:\Visual Studio 22\Code\Test-code\Project 3_18\x64\Debug\Project 3_18.exe
